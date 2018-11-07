@@ -1,7 +1,7 @@
 # QuietWeather
 一款天气应用微信小程序
 <p align='center'>
-    <img src='https://mp.weixin.qq.com/wxopen/qrcode?action=show&type=2&fakeid=3508641598&token=1077892595'>
+    <img src='http://184.170.223.148/test/gh_2130bc9f17b8_430.jpg'>
 </p>
 
 ## 新版首页(可选择内置背景)
